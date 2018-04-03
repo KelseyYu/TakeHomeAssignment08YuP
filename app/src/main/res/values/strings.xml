@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChineseCuisine</string>
+    <string name="sweet_sour_pork">Sweet and Sour Pork</string>
+    <string name="spring_rolls">Spring Rolls</string>
+    <string name="kungpao_chicken">Kung Pao Chicken</string>
+    <string name="mapo_tofu">Ma Po Tofu</string>
+    <string name="dumplings">Dumplings</string>
+    <string name="twice_cooked_pork">Twice Cooked Pork</string>
+    <string name="noddles">Dan Dan Noddles</string>
+    <string name="spicy_toast">Spicy!</string>
+    <string name="unspicy_toast">Not Spicy</string>
+
+</resources>
